@@ -29,3 +29,6 @@ mascot.py
 # Ignore ipython stuff
 *.ipynb
 */.ipynb_checkpoints/*
+
+# Ignore scripts
+scripts/
